@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="*.bash*" type="Bash" />
-      <removed_mapping ext="bash" type="Bash" />
-    </extensionMap>
-  </component>
-</application>
