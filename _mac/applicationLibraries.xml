@@ -29,5 +29,15 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Remote Python 2.6.6 (sftp://vagrant@dev.rs.lifeworks.com:22/usr/bin/python) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Remote Sudoed Python 2.6.6 (sftp://vagrant@dev.rs.lifeworks.com:22/vagrant/wa-infrastructure/rs.workangel.com/modules/wa_mongodb_import_export/files/lib/bin/python-sudo.sh) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>

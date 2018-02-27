@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.bash*" type="Bash" />
       <removed_mapping ext="bash" type="Bash" />
+      <mapping pattern=".gitexcludes" type="Git file" />
     </extensionMap>
   </component>
 </application>
