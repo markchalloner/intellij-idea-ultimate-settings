@@ -29,15 +29,5 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Remote Python 2.6.6 interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="Remote Sudoed Python 2.6.6 interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
   </component>
 </application>
