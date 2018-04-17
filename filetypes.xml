@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*.bash*" type="Bash" />
+      <removed_mapping ext="bash" type="Bash" />
+      <mapping pattern=".gitexcludes" type="Git file" />
+      <mapping pattern="lifeworks" type="PLAIN_TEXT" />
+      <mapping pattern="rakefile*" type="Ruby" />
+    </extensionMap>
+  </component>
+</application>
