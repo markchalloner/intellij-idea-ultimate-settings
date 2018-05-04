@@ -9,7 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="app" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -26,7 +26,7 @@
     <mask>*.py</mask>
     <mask>values.yaml</mask>
     <mask>pavement.py</mask>
-    <mask>*.yaml</mask>
     <mask>app</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
