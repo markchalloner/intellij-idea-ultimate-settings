@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="test.json" type="PLAIN_TEXT" />
       <mapping pattern="lifeworks" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
