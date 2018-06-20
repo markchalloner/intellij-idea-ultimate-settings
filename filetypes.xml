@@ -5,6 +5,7 @@
       <mapping pattern="test.json" type="PLAIN_TEXT" />
       <mapping pattern="lifeworks" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="monitoring-approx" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping pattern="*.bash*" type="Bash" />
