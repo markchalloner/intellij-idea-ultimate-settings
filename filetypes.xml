@@ -8,6 +8,7 @@
       <mapping pattern="monitoring-nginx" type="PLAIN_TEXT" />
       <mapping pattern="monitoring-approx" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping pattern="*.bash*" type="Bash" />
