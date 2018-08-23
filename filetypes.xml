@@ -6,6 +6,7 @@
       <mapping pattern="SmarketsEC2NetworkInterfaceAccess" type="PLAIN_TEXT" />
       <mapping pattern="s3_buckets_collection" type="PLAIN_TEXT" />
       <mapping pattern="eks-creator" type="PLAIN_TEXT" />
+      <mapping pattern="eks" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
