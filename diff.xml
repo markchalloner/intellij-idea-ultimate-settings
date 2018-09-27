@@ -6,6 +6,11 @@
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
         </PlaceSettings>
       </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings>
+          <option name="ENABLE_SYNC_SCROLL" value="false" />
+        </PlaceSettings>
+      </entry>
     </option>
   </component>
 </application>
