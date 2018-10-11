@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitexcludes" type="Git file" />
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="SmarketsEC2NetworkInterfaceAccess" type="PLAIN_TEXT" />
