@@ -11,5 +11,6 @@
   </action>
   <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
     <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
 </keymap>

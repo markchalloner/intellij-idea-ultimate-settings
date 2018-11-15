@@ -1,0 +1,171 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Development/moto/moto/resourcegroups/__init__.py" timestamp="1542277373769">
+        <mark key="'" line="1" column="43" />
+        <mark key="[" line="2" column="66" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+      </file>
+      <file name="$USER_HOME$/Development/moto/moto/__init__.py" timestamp="1542277279487">
+        <mark key="[" line="36" column="30" />
+        <mark key="]" line="36" column="83" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/moto/moto/resourcegroups/models.py" timestamp="1542278065790">
+        <mark key="'" line="15" column="8" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="12" />
+        <mark key="^" line="42" column="75" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/moto/moto/resourcegroups/exceptions.py" timestamp="1542277432705" />
+      <file name="$USER_HOME$/Development/moto/moto/resourcegroups/responses.py" timestamp="1542278038167">
+        <mark key="a" line="32" column="0" />
+        <mark key="b" line="45" column="0" />
+        <mark key="'" line="90" column="16" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/moto/tests/test_resourcegroups/test_resourcegroups.py" timestamp="1542278644170">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="12" />
+        <mark key="^" line="17" column="12" />
+        <mark key="." line="17" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/moto/moto/resourcegroups/urls.py" timestamp="1542277625800">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/Development/smarkets/packages/smk_aws/smk_aws/core/stacks.py" timestamp="1542278481803">
+        <mark key="[" line="230" column="16" />
+        <mark key="]" line="237" column="17" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="53" column="8" filename="$USER_HOME$/Development/moto/moto/resourcegroups/responses.py" />
+      <jump line="63" column="31" filename="$USER_HOME$/Development/moto/moto/resourcegroups/responses.py" />
+      <jump line="68" column="8" filename="$USER_HOME$/Development/moto/moto/resourcegroups/responses.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/moto/moto/resourcegroups/responses.py" />
+      <jump line="90" column="16" filename="$USER_HOME$/Development/moto/moto/resourcegroups/responses.py" />
+      <jump line="23" column="8" filename="$USER_HOME$/Development/moto/moto/resourcegroups/models.py" />
+      <jump line="1" column="43" filename="$USER_HOME$/Development/moto/moto/resourcegroups/__init__.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>{
+                &quot;ResourceTypeFilters&quot;: [&quot;AWS::AllSupported&quot;],
+                &quot;TagFilters&quot;: [
+                    {&quot;Key&quot;: &quot;{prefix}:stack-name&quot;.format(prefix=TAG_PREFIX), &quot;Values&quot;: [self.name]}
+                ],
+            }
+        ),        },</text>
+      </register>
+      <register name="-" type="4">
+        <text>ec</text>
+      </register>
+      <register name="/" type="4">
+        <text>ecr</text>
+      </register>
+      <register name="0" type="4">
+        <text>&quot;Query&quot;: json.dumps(
+                    {
+                        &quot;ResourceTypeFilters&quot;: [&quot;AWS::AllSupported&quot;],
+                        &quot;TagFilters&quot;: [
+                            {&quot;Key&quot;: &quot;{prefix}:stack-name&quot;.format(prefix=TAG_PREFIX), &quot;Values&quot;: [self.name]}
+                        ],
+                    }
+                ),</text>
+      </register>
+      <register name="1" type="4">
+        <text>{
+                &quot;ResourceTypeFilters&quot;: [&quot;AWS::AllSupported&quot;],
+                &quot;TagFilters&quot;: [
+                    {&quot;Key&quot;: &quot;{prefix}:stack-name&quot;.format(prefix=TAG_PREFIX), &quot;Values&quot;: [self.name]}
+                ],
+            }
+        ),        },</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmlzX25vdF9kcnlydW4oJ0xpc3RHcm91cHMnKToKICAgICAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcigKICAgICAgICAgICAgICAgICdSZXNvdXJjZUdyb3Vwcy5saXN0X2dyb3VwcyBpcyBub3QgeWV0IGltcGxlbWVudGVkJykK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmlzX25vdF9kcnlydW4oJ0dldFRhZ3MnKToKICAgICAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcigKICAgICAgICAgICAgICAgICdSZXNvdXJjZUdyb3Vwcy5nZXRfdGFncyBpcyBub3QgeWV0IGltcGxlbWVudGVkJykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmlzX25vdF9kcnlydW4oJ0dldEdyb3VwUXVlcnknKToKICAgICAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcigKICAgICAgICAgICAgICAgICdSZXNvdXJjZUdyb3Vwcy5nZXRfZ3JvdXBfcXVlcnkgaXMgbm90IHlldCBpbXBsZW1lbnRlZCcpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdSZXNvdXJjZUdyb3Vwcy5nZXRfZ3JvdXAgaXMgbm90IHlldCBpbXBsZW1lbnRlZCcpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcigK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmlzX25vdF9kcnlydW4oJ0dldEdyb3VwJyk6Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZW5lcmF0ZV9wcmVzaWduZWRfdXJsKHNlbGYpOgogICAgICAgIHBhc3MKCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZW5lcmF0ZV9wcmVzaWduZWRfdXJsKHNlbGYpOgogICAgICAgIHBhc3MKCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>.,+19y</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>ecr</last-search>
+      <last-pattern>ecr</last-pattern>
+      <last-replace>resourcegroups</last-replace>
+      <last-substitute>ecr</last-substitute>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>ecr</entry>
+      </history-search>
+      <history-cmd>
+        <entry>+4</entry>
+        <entry>=1</entry>
+        <entry>-42</entry>
+        <entry>69$</entry>
+        <entry>1</entry>
+        <entry>69</entry>
+        <entry>+5</entry>
+        <entry>-5</entry>
+        <entry>.,$y</entry>
+        <entry>47</entry>
+        <entry>:%s/ecr/resourcegroups/g</entry>
+        <entry>%s/ecr/resourcegroups/g</entry>
+        <entry>x</entry>
+        <entry>y</entry>
+        <entry>.,+19y</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
