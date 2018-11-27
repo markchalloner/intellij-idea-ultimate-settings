@@ -9,6 +9,7 @@
       <mapping pattern="kubelet-kubeconfig-auth" type="PLAIN_TEXT" />
       <mapping pattern="monitoring-gitlab" type="PLAIN_TEXT" />
       <mapping pattern="s3_buckets_collection" type="PLAIN_TEXT" />
+      <mapping pattern="terraform_path.py" type="PLAIN_TEXT" />
       <mapping pattern="eks-creator" type="PLAIN_TEXT" />
       <mapping pattern="factories" type="PLAIN_TEXT" />
       <mapping pattern="kubelet-kubeconfig" type="PLAIN_TEXT" />
