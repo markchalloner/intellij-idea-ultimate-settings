@@ -13,6 +13,7 @@
       <mapping pattern="terraform_path.py" type="PLAIN_TEXT" />
       <mapping pattern="eks-creator" type="PLAIN_TEXT" />
       <mapping pattern="factories" type="PLAIN_TEXT" />
+      <mapping pattern="terraforming" type="PLAIN_TEXT" />
       <mapping pattern="kubelet-kubeconfig" type="PLAIN_TEXT" />
       <mapping pattern="eks" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
