@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitexcludes" type="Git file" />
+      <mapping ext="tfstate" type="JSON" />
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="client_method_to_response_key_path.yml" type="PLAIN_TEXT" />
       <mapping pattern="SmarketsEC2NetworkInterfaceAccess" type="PLAIN_TEXT" />
