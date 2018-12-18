@@ -17,6 +17,7 @@
       <mapping pattern="terraforming" type="PLAIN_TEXT" />
       <mapping pattern="kubelet-kubeconfig" type="PLAIN_TEXT" />
       <mapping pattern="eks" type="PLAIN_TEXT" />
+      <mapping ext="fixed" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="tg" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
