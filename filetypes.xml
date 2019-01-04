@@ -22,6 +22,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="tg" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="rules" type="YAML" />
     </extensionMap>
   </component>
 </application>
