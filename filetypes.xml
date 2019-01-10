@@ -6,6 +6,7 @@
       <mapping ext="tfstate" type="JSON" />
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="client_method_to_response_key_path.yml" type="PLAIN_TEXT" />
+      <mapping pattern="inenv" type="PLAIN_TEXT" />
       <mapping pattern="SmarketsEC2NetworkInterfaceAccess" type="PLAIN_TEXT" />
       <mapping pattern="kubelet-kubeconfig-auth" type="PLAIN_TEXT" />
       <mapping pattern="monitoring-gitlab" type="PLAIN_TEXT" />
