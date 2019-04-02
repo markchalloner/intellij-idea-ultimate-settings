@@ -30,7 +30,7 @@
     <mask>*.yml</mask>
     <mask>*.tf</mask>
     <mask>*.y*ml</mask>
-    <mask>*.py</mask>
     <mask>monitoring</mask>
+    <mask>*.py</mask>
   </component>
 </application>
