@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -27,10 +28,10 @@
     <mask>setup.py</mask>
     <mask>.gitignore</mask>
     <mask>*.yaml</mask>
-    <mask>*.yml</mask>
     <mask>*.tf</mask>
     <mask>*.y*ml</mask>
     <mask>monitoring</mask>
     <mask>*.py</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
