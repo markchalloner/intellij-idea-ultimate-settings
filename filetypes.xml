@@ -23,6 +23,7 @@
       <mapping ext="fixed" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="tg" type="PLAIN_TEXT" />
       <mapping ext="rules" type="YAML" />
