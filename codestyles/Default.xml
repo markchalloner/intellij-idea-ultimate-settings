@@ -1,5 +1,5 @@
 <code_scheme name="Default" version="173">
-  <option name="SOFT_MARGINS" value="80,110,120" />
+  <option name="SOFT_MARGINS" value="80,110,120,160" />
   <PHPCodeStyleSettings>
     <option name="PHPDOC_THROWS_IGNORE_LOGIC_EXCEPTIONS" value="false" />
   </PHPCodeStyleSettings>
