@@ -7,14 +7,15 @@
       <mapping pattern="ansible-lint" type="PLAIN_TEXT" />
       <mapping pattern="kubelet-kubeconfig-auth" type="PLAIN_TEXT" />
       <mapping pattern="client_method_to_response_key_path.yml" type="PLAIN_TEXT" />
+      <mapping pattern=".cfssl-fetched" type="PLAIN_TEXT" />
+      <mapping pattern="inenv" type="PLAIN_TEXT" />
       <mapping pattern="SmarketsEC2NetworkInterfaceAccess" type="PLAIN_TEXT" />
       <mapping pattern="eks" type="PLAIN_TEXT" />
-      <mapping pattern="eks-creator" type="PLAIN_TEXT" />
       <mapping pattern="monitoring-gitlab" type="PLAIN_TEXT" />
       <mapping pattern="s3_buckets_collection" type="PLAIN_TEXT" />
       <mapping pattern="monitoring" type="PLAIN_TEXT" />
       <mapping pattern="terraform_path.py" type="PLAIN_TEXT" />
-      <mapping pattern="inenv" type="PLAIN_TEXT" />
+      <mapping pattern="eks-creator" type="PLAIN_TEXT" />
       <mapping pattern="factories" type="PLAIN_TEXT" />
       <mapping pattern="terraforming" type="PLAIN_TEXT" />
       <mapping pattern="user-data-runner" type="PLAIN_TEXT" />
