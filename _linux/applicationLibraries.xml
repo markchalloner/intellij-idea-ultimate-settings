@@ -240,7 +240,6 @@
       <CLASSES>
         <root url="file:///usr/lib/python3.6" />
         <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/Development/smarkets/tools/dev/k8s/lib/python3.6/site-packages" />
         <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/170705866" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -252,7 +251,6 @@
       <SOURCES>
         <root url="file:///usr/lib/python3.6" />
         <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/Development/smarkets/tools/dev/k8s/lib/python3.6/site-packages" />
         <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/170705866" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
