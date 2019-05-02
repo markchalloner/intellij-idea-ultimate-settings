@@ -99,33 +99,6 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 3.6 (cloud) interpreter library">
-      <CLASSES>
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/Development/smarkets/tools/cloud/.ve/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Development/smarkets/packages/smk_aws" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-241323942" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/Development/smarkets/tools/cloud/.ve/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Development/smarkets/packages/smk_aws" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-241323942" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="Python 3.6 (cloud-8eHB9dXJ) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.virtualenvs/cloud-8eHB9dXJ/lib/python3.6" />
@@ -229,6 +202,33 @@
         <root url="jar://$USER_HOME$/.virtualenvs/smk_py_service_utils/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
         <root url="file://$USER_HOME$/.virtualenvs/smk_py_service_utils/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
         <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/1549382729" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 (cloud) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/Development/smarkets/tools/cloud/.ve/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Development/smarkets/packages/smk_aws" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-241323942" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/Development/smarkets/tools/cloud/.ve/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Development/smarkets/packages/smk_aws" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-241323942" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
