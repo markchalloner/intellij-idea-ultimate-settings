@@ -1,13 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="keel.yaml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,7 +19,6 @@
     <mask>*.pp</mask>
     <mask>*.scss</mask>
     <mask>*.jsx</mask>
-    <mask>values.yaml</mask>
     <mask>pavement.py</mask>
     <mask>app</mask>
     <mask>deployment.yaml</mask>
@@ -37,5 +35,6 @@
     <mask>Dockerfile</mask>
     <mask>*.js</mask>
     <mask>keel.yaml</mask>
+    <mask>values.yaml</mask>
   </component>
 </application>
