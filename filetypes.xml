@@ -13,6 +13,7 @@
       <mapping pattern="monitoring-gitlab" type="PLAIN_TEXT" />
       <mapping pattern="inenv" type="PLAIN_TEXT" />
       <mapping pattern="SmarketsEC2NetworkInterfaceAccess" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="terraform_path.py" type="PLAIN_TEXT" />
       <mapping pattern="factories" type="PLAIN_TEXT" />
       <mapping pattern="monitoring" type="PLAIN_TEXT" />
