@@ -22,9 +22,9 @@
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="eks-creator" type="PLAIN_TEXT" />
       <mapping pattern="s3_buckets_collection" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="jenkinsfile" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="tg" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
