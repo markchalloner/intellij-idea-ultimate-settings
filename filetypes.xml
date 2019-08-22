@@ -19,6 +19,7 @@
       <mapping pattern="monitoring-gitlab" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="monitoring" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="inenv" type="PLAIN_TEXT" />
       <mapping pattern="terraforming" type="PLAIN_TEXT" />
       <mapping pattern="user-data-runner" type="PLAIN_TEXT" />
