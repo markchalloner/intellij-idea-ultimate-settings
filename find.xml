@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
+    <option name="FILE_MASK" value="" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -37,5 +37,6 @@
     <mask>*.sh</mask>
     <mask>*.groovy</mask>
     <mask>*.tf</mask>
+    <mask>README.md</mask>
   </component>
 </application>
