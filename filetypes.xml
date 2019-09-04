@@ -7,6 +7,7 @@
       <mapping ext="tfstate" type="JSON" />
       <mapping pattern="SmarketsS3RedshiftUploads.tf" type="PLAIN_TEXT" />
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
+      <mapping pattern="bootstrap" type="PLAIN_TEXT" />
       <mapping pattern="ansible-lint" type="PLAIN_TEXT" />
       <mapping pattern="kubelet-kubeconfig-auth" type="PLAIN_TEXT" />
       <mapping pattern="client_method_to_response_key_path.yml" type="PLAIN_TEXT" />
