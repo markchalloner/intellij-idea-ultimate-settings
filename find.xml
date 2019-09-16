@@ -10,7 +10,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yaml" />
+    <option name="FILE_MASK" value="values.yaml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -33,7 +33,6 @@
     <mask>*.py</mask>
     <mask>*.js</mask>
     <mask>keel.yaml</mask>
-    <mask>values.yaml</mask>
     <mask>Dockerfile</mask>
     <mask>*.sh</mask>
     <mask>*.groovy</mask>
@@ -41,5 +40,6 @@
     <mask>*.tf</mask>
     <mask>*.yml</mask>
     <mask>*.yaml</mask>
+    <mask>values.yaml</mask>
   </component>
 </application>
