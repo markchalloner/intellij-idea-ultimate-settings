@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pavement.py" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -18,7 +19,6 @@
     <mask>*.pp</mask>
     <mask>*.scss</mask>
     <mask>*.jsx</mask>
-    <mask>pavement.py</mask>
     <mask>app</mask>
     <mask>deployment.yaml</mask>
     <mask>dockerfile</mask>
@@ -37,5 +37,6 @@
     <mask>*.yml</mask>
     <mask>*.yaml</mask>
     <mask>values.yaml</mask>
+    <mask>pavement.py</mask>
   </component>
 </application>
