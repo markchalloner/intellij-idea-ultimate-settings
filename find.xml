@@ -31,9 +31,9 @@
     <mask>README.md</mask>
     <mask>*.yaml</mask>
     <mask>values.yaml</mask>
-    <mask>pavement.py</mask>
     <mask>*.yml</mask>
     <mask>*.y*ml</mask>
     <mask>*.tf</mask>
+    <mask>pavement.py</mask>
   </component>
 </application>
