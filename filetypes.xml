@@ -8,6 +8,7 @@
       <mapping pattern="SmarketsS3RedshiftUploads.tf" type="PLAIN_TEXT" />
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="bootstrap" type="PLAIN_TEXT" />
+      <mapping pattern="smarkets-sandbox" type="PLAIN_TEXT" />
       <mapping pattern="user-data-runner" type="PLAIN_TEXT" />
       <mapping pattern="ansible-lint" type="PLAIN_TEXT" />
       <mapping pattern="kubelet-kubeconfig-auth" type="PLAIN_TEXT" />
