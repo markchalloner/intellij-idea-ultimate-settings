@@ -3,10 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tf" />
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="*.md" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -36,5 +37,6 @@
     <mask>*.y*ml</mask>
     <mask>pavement.py</mask>
     <mask>*.tf</mask>
+    <mask>*.md</mask>
   </component>
 </application>
