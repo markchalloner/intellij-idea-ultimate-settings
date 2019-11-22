@@ -3,9 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="values.yaml" />
+    <option name="FILE_MASK" value="pavement.py" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -34,7 +36,7 @@
     <mask>*.y*ml</mask>
     <mask>*.md</mask>
     <mask>*.tf</mask>
-    <mask>pavement.py</mask>
     <mask>values.yaml</mask>
+    <mask>pavement.py</mask>
   </component>
 </application>
