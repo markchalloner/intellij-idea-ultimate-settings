@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pavement.py" />
+    <option name="FILE_MASK" value="values.yaml" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -36,7 +36,7 @@
     <mask>*.y*ml</mask>
     <mask>*.md</mask>
     <mask>*.tf</mask>
-    <mask>values.yaml</mask>
     <mask>pavement.py</mask>
+    <mask>values.yaml</mask>
   </component>
 </application>
