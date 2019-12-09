@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -21,7 +22,6 @@
     <mask>setup.py</mask>
     <mask>.gitignore</mask>
     <mask>monitoring</mask>
-    <mask>*.py</mask>
     <mask>*.js</mask>
     <mask>keel.yaml</mask>
     <mask>*.sh</mask>
@@ -35,5 +35,6 @@
     <mask>pavement.py</mask>
     <mask>values.yaml</mask>
     <mask>Dockerfile</mask>
+    <mask>*.py</mask>
   </component>
 </application>
