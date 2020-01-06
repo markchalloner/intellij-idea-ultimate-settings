@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.jsp</mask>
+    <option name="FILE_MASK" value="requirements-to-freeze.txt" />
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -35,5 +35,6 @@
     <mask>*.py</mask>
     <mask>*.tf</mask>
     <mask>pavement.py</mask>
+    <mask>requirements-to-freeze.txt</mask>
   </component>
 </application>
