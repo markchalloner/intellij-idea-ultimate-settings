@@ -17,6 +17,7 @@
       <mapping pattern="RELEASE" type="PLAIN_TEXT" />
       <mapping pattern="02-aws-account-management" type="PLAIN_TEXT" />
       <mapping pattern="factories" type="PLAIN_TEXT" />
+      <mapping pattern=".bandit" type="PLAIN_TEXT" />
       <mapping pattern="SmarketsEC2NetworkInterfaceAccess" type="PLAIN_TEXT" />
       <mapping pattern="monitoring-gitlab" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
