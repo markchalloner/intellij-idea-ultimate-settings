@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="Dockerfile" />
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -30,10 +31,10 @@
     <mask>*.y*ml</mask>
     <mask>*.md</mask>
     <mask>values.yaml</mask>
-    <mask>Dockerfile</mask>
     <mask>*.py</mask>
     <mask>*.tf</mask>
     <mask>pavement.py</mask>
     <mask>requirements-to-freeze.txt</mask>
+    <mask>Dockerfile</mask>
   </component>
 </application>
