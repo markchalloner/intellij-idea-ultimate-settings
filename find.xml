@@ -3,9 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.xml</mask>
+    <option name="FILE_MASK" value="variables.tf" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -35,5 +37,6 @@
     <mask>requirements-to-freeze.txt</mask>
     <mask>Dockerfile</mask>
     <mask>*.tf</mask>
+    <mask>variables.tf</mask>
   </component>
 </application>
