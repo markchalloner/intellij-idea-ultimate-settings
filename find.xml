@@ -5,8 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tf" />
-    <mask>*.java</mask>
+    <option name="FILE_MASK" value="pyproject.toml" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -36,5 +35,6 @@
     <mask>Dockerfile</mask>
     <mask>variables.tf</mask>
     <mask>*.tf</mask>
+    <mask>pyproject.toml</mask>
   </component>
 </application>
