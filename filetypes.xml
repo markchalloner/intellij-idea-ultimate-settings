@@ -7,7 +7,6 @@
       <mapping pattern="bootstrap" type="PLAIN_TEXT" />
       <mapping pattern="smarkets-sandbox" type="PLAIN_TEXT" />
       <mapping pattern="eks" type="PLAIN_TEXT" />
-      <mapping pattern="user-data-runner" type="PLAIN_TEXT" />
       <mapping pattern="ansible-lint" type="PLAIN_TEXT" />
       <mapping pattern="kubelet-kubeconfig-auth" type="PLAIN_TEXT" />
       <mapping pattern="variables" type="PLAIN_TEXT" />
@@ -26,6 +25,7 @@
       <mapping pattern="inenv" type="PLAIN_TEXT" />
       <mapping pattern="monitoring" type="PLAIN_TEXT" />
       <mapping pattern="terraforming" type="PLAIN_TEXT" />
+      <mapping pattern="user-data-runner" type="PLAIN_TEXT" />
       <mapping pattern="kubelet-kubeconfig" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="eks-creator" type="PLAIN_TEXT" />
