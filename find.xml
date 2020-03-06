@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tf" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -23,7 +23,6 @@
     <mask>setup.py</mask>
     <mask>.gitignore</mask>
     <mask>monitoring</mask>
-    <mask>*.js</mask>
     <mask>keel.yaml</mask>
     <mask>*.sh</mask>
     <mask>README.md</mask>
@@ -40,5 +39,6 @@
     <mask>pyproject.toml</mask>
     <mask>*.groovy</mask>
     <mask>*.tf</mask>
+    <mask>*.js</mask>
   </component>
 </application>
