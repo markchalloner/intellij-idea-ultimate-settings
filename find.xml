@@ -7,7 +7,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tf" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -30,7 +29,6 @@
     <mask>*.md</mask>
     <mask>values.yaml</mask>
     <mask>*.py</mask>
-    <mask>pavement.py</mask>
     <mask>requirements-to-freeze.txt</mask>
     <mask>Dockerfile</mask>
     <mask>variables.tf</mask>
@@ -38,5 +36,6 @@
     <mask>*.groovy</mask>
     <mask>*.js</mask>
     <mask>*.tf</mask>
+    <mask>pavement.py</mask>
   </component>
 </application>
