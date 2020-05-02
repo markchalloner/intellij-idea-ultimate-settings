@@ -35,6 +35,7 @@
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="fixed" type="PLAIN_TEXT" />
+      <mapping ext="responsefile" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="0_x4" type="PLAIN_TEXT" />
