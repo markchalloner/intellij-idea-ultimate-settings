@@ -14,6 +14,7 @@
       <mapping pattern="variables" type="PLAIN_TEXT" />
       <mapping pattern="client_method_to_response_key_path.yml" type="PLAIN_TEXT" />
       <mapping pattern=".cfssl-fetched" type="PLAIN_TEXT" />
+      <mapping pattern="sshd_config" type="PLAIN_TEXT" />
       <mapping pattern="RELEASE" type="PLAIN_TEXT" />
       <mapping pattern="londonbikes" type="PLAIN_TEXT" />
       <mapping pattern="02-aws-account-management" type="PLAIN_TEXT" />
