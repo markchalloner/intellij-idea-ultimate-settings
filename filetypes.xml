@@ -35,7 +35,6 @@
       <mapping ext="fixed" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="pp" type="PLAIN_TEXT" />
       <mapping ext="0_x4" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
