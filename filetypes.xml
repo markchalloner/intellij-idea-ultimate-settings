@@ -26,6 +26,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="s3_buckets_collection" type="PLAIN_TEXT" />
       <mapping pattern="terraform_path.py" type="PLAIN_TEXT" />
+      <mapping pattern="default:" type="PLAIN_TEXT" />
       <mapping pattern="inenv" type="PLAIN_TEXT" />
       <mapping pattern="monitoring" type="PLAIN_TEXT" />
       <mapping pattern="terraforming" type="PLAIN_TEXT" />
