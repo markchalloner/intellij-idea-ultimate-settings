@@ -6,9 +6,9 @@
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
-      <mapping pattern="bootstrap" type="PLAIN_TEXT" />
       <mapping pattern="smarkets-sandbox" type="PLAIN_TEXT" />
       <mapping pattern="eks" type="PLAIN_TEXT" />
+      <mapping pattern="bootstrap" type="PLAIN_TEXT" />
       <mapping pattern="ansible-lint" type="PLAIN_TEXT" />
       <mapping pattern="kubelet-kubeconfig-auth" type="PLAIN_TEXT" />
       <mapping pattern="variables" type="PLAIN_TEXT" />
@@ -36,15 +36,15 @@
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="fixed" type="PLAIN_TEXT" />
-      <mapping ext="responsefile" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="0_x4" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="tg" type="PLAIN_TEXT" />
-      <mapping ext="nginx" type="PLAIN_TEXT" />
       <mapping ext="jenkinsfile" type="PLAIN_TEXT" />
+      <mapping ext="nginx" type="PLAIN_TEXT" />
+      <mapping ext="responsefile" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
