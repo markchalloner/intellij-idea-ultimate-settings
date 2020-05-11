@@ -5,6 +5,7 @@
       <mapping pattern="SmarketsS3RedshiftUploads.tf" type="PLAIN_TEXT" />
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="bootstrap" type="PLAIN_TEXT" />
+      <mapping pattern="test_cost_explorer_costs" type="PLAIN_TEXT" />
       <mapping pattern="smarkets-sandbox" type="PLAIN_TEXT" />
       <mapping pattern="eks" type="PLAIN_TEXT" />
       <mapping pattern="ansible-lint" type="PLAIN_TEXT" />
@@ -14,7 +15,6 @@
       <mapping pattern=".cfssl-fetched" type="PLAIN_TEXT" />
       <mapping pattern="RELEASE" type="PLAIN_TEXT" />
       <mapping pattern="02-aws-account-management" type="PLAIN_TEXT" />
-      <mapping pattern="test_cost_explorer_costs" type="PLAIN_TEXT" />
       <mapping pattern="factories" type="PLAIN_TEXT" />
       <mapping pattern=".bandit" type="PLAIN_TEXT" />
       <mapping pattern="SmarketsEC2NetworkInterfaceAccess" type="PLAIN_TEXT" />
@@ -22,25 +22,25 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="s3_buckets_collection" type="PLAIN_TEXT" />
       <mapping pattern="terraform_path.py" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="inenv" type="PLAIN_TEXT" />
       <mapping pattern="monitoring" type="PLAIN_TEXT" />
       <mapping pattern="terraforming" type="PLAIN_TEXT" />
       <mapping pattern="user-data-runner" type="PLAIN_TEXT" />
       <mapping pattern="kubelet-kubeconfig" type="PLAIN_TEXT" />
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="eks-creator" type="PLAIN_TEXT" />
-      <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
-      <mapping ext="0_x4" type="PLAIN_TEXT" />
-      <mapping ext="tg" type="PLAIN_TEXT" />
-      <mapping ext="fixed" type="PLAIN_TEXT" />
-      <mapping ext="jenkinsfile" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="fixed" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="0_x4" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="tg" type="PLAIN_TEXT" />
+      <mapping ext="jenkinsfile" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping ext="rules" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
